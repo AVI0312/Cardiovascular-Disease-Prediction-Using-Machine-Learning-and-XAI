@@ -22,8 +22,11 @@ Feature Importance Analysis: Highlighted the most impactful medical features, su
 The dataset used includes critical medical parameters such as:
 
 ->cp (chest pain type): Strongly linked to heart attack prediction.
+
 ->oldpeak: Reflects ST Depression in ECG, indicating myocardial ischemia.
+
 ->ca (number of major vessels): Related to blood flow conditions.
+
 ->Other parameters include age, cholesterol levels, blood pressure, and more.
 
 ---
