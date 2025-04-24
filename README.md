@@ -11,7 +11,7 @@ Machine Learning Models: Evaluation of several algorithms such as Logistic Regre
 Performance Metrics: Achieved a 95.60% accuracy using the KNN algorithm.
 Explainable AI (XAI): Used LIME (Local Interpretable Model-agnostic Explanations) to identify and explain the importance of features contributing to predictions.
 Feature Importance Analysis: Highlighted the most impactful medical features, such as chest pain (cp), old peak (oldpeak), and others, for predicting heart disease.
-
+---
 #Data and Methodology
 
 #Dataset
@@ -22,7 +22,7 @@ The dataset used includes critical medical parameters such as:
 ->oldpeak: Reflects ST Depression in ECG, indicating myocardial ischemia.
 ->ca (number of major vessels): Related to blood flow conditions.
 ->Other parameters include age, cholesterol levels, blood pressure, and more.
-
+---
 #Machine Learning Models
 
 The following models were trained and evaluated:
@@ -41,7 +41,7 @@ The following models were trained and evaluated:
 
 ->K-Nearest Neighbors (KNN)
 
-
+---
 #Explainable AI (XAI)
 
 We used LIME to:
@@ -49,7 +49,7 @@ We used LIME to:
 ->Visualize feature importance for individual predictions.
 
 ->Provide interpretable insights for both positive and negative predictions.
-
+---
 #Results
 
 Performance Metrics (KNN)
