@@ -41,13 +41,14 @@ The following models were trained and evaluated:
 
 ->K-Nearest Neighbors (KNN)
 
+
 #Explainable AI (XAI)
 
 We used LIME to:
 
-Visualize feature importance for individual predictions.
+->Visualize feature importance for individual predictions.
 
-Provide interpretable insights for both positive and negative predictions.
+->Provide interpretable insights for both positive and negative predictions.
 
 #Results
 
