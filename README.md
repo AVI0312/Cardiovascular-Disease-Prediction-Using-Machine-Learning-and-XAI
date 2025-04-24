@@ -1,5 +1,5 @@
 # Cardiovascular-Disease-Prediction-Using-Machine-Learning-and-XAI
-#Overview
+#Overview:
 This project focuses on predicting cardiovascular diseases (CVD), specifically heart attacks, using machine learning (ML) models and explainable AI (XAI) techniques. Cardiovascular diseases remain the leading cause of death globally, emphasizing the need for accurate, reliable, and efficient prediction models.
 
 Using advanced data mining and ML techniques, we aim to predict the likelihood of heart disease based on a patient's medical features. Additionally, we incorporate XAI methods to interpret model predictions, providing insights into critical features influencing the outcomes.
