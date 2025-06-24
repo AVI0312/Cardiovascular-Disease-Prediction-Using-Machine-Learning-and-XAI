@@ -51,24 +51,16 @@ We used LIME to:
 ---
 ## ***Results***
 
-### Performance Metrics (KNN)
-
-->Accuracy: 95.60%
-
-->Precision (Positive): 0.97
-
-->Recall (Positive): 0.94
-
+### Performance Metrics (KNN)  
+->Accuracy: 95.60%  
+->Precision (Positive): 0.97  
+->Recall (Positive): 0.94  
 ->F1-Score (Positive): 0.95
 
 ### Feature Importance
 
-Using LIME, we identified the most impactful features for heart disease prediction:
-
-->Orange Features: Indicate higher importance and likelihood of heart disease.
-
-->Blue Features: Indicate lower importance and likelihood of heart disease.
-
-->Important Features: cp, oldpeak, ca, etc.
-
+Using LIME, we identified the most impactful features for heart disease prediction:  
+->Orange Features: Indicate higher importance and likelihood of heart disease.  
+->Blue Features: Indicate lower importance and likelihood of heart disease.  
+->Important Features: cp, oldpeak, ca, etc.  
 ->Value Counts: Highlighting the proportion of patients at risk.
